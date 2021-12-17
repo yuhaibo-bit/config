@@ -1,1 +1,2 @@
-config: devtest
+config: 
+  info: "dev"
